@@ -1,0 +1,3 @@
+rootProject.name = 'spring-multi-datasource'
+include 'base-mybatis'
+include 'simple-demo'
